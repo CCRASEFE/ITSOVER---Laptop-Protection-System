@@ -15,11 +15,11 @@
 El sistema opera bajo el principio de **Defensa en Profundidad** (protección por capas). Bloquear únicamente sitios web a nivel de navegador resulta insuficiente frente a la tentación o los hábitos compulsivos. Por ello, ITSOVER articula 10 fases complementarias:
 
 ```
-[ Nivel 1: Sistema / DNS ]       ---&gt;  Bloqueo de dominios en hosts + Blindaje de permisos
-[ Nivel 2: Registro de Windows ]  ---&gt;  Políticas HKLM (Brave / Chrome / IFEO)
-[ Nivel 3: Navegador ]            ---&gt;  SafeSearch forzado + Desactivación de Incógnito / Perfiles
-[ Nivel 4: Interfaz y Algoritmo]  ---&gt;  Ocultamiento de Shorts + Keyword Firewall Extensión
-[ Nivel 5: Automatización ]       ---&gt;  Scripts unificados de activación / desactivación (.bat)
+[ Nivel 1: Sistema / DNS ]        ---;  Bloqueo de dominios en hosts + Blindaje de permisos
+[ Nivel 2: Registro de Windows ]  ---;  Políticas HKLM (Brave / Chrome / IFEO)
+[ Nivel 3: Navegador ]            ---;  SafeSearch forzado + Desactivación de Incógnito / Perfiles
+[ Nivel 4: Interfaz y Algoritmo]  ---;  Ocultamiento de Shorts + Keyword Firewall Extensión
+[ Nivel 5: Automatización ]       ---;  Scripts unificados de activación / desactivación (.bat)
 
 ```
 
