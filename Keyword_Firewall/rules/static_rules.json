@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "priority": 10,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/ui/blocked.html" }
+    },
+    "condition": {
+      "regexFilter": "^https?://.*(\\b|%20|\\+|_)(sexi|modelos|porno|nsfw|xxx)(\\b|%20|\\+|_).*",
+      "isUrlFilterCaseSensitive": false,
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]

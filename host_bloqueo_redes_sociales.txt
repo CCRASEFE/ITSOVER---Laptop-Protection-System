@@ -1,0 +1,24 @@
+# --- BLOQUEO FACEBOOK ---
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 www.fb.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 static.xx.fbcdn.net
+
+# --- BLOQUEO INSTAGRAM ---
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 m.instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 static.cdninstagram.com
+
+# --- BLOQUEO TIKTOK ---
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 byteoversea.com
+0.0.0.0 ibyteimg.com
+0.0.0.0 v16-webapp-prime.tiktok.com

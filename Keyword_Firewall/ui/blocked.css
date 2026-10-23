@@ -1,0 +1,39 @@
+body {
+  background-color: #0c0d0e;
+  color: #d1d5db;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.terminal {
+  max-width: 550px;
+  padding: 2rem;
+  border: 1px solid #262626;
+  background-color: #121314;
+  border-radius: 6px;
+}
+
+.error-code {
+  color: #ef4444;
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
+
+.description {
+  color: #9ca3af;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
+}
+
+.metrics {
+  font-size: 0.75rem;
+  color: #4b5563;
+  border-top: 1px solid #1f2937;
+  padding-top: 0.75rem;
+}

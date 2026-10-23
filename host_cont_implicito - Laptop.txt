@@ -1,0 +1,170 @@
+# ==========================================
+# BLOQUEO DEFINITIVO DE PINTEREST (Y CDNs)
+# ==========================================
+127.0.0.1 pinterest.com
+127.0.0.1 www.pinterest.com
+127.0.0.1 m.pinterest.com
+127.0.0.1 app.pinterest.com
+127.0.0.1 pin.it
+127.0.0.1 www.pin.it
+
+# Servidores de imágenes (CDNs donde se cargan las fotos)
+127.0.0.1 pinimg.com
+127.0.0.1 www.pinimg.com
+127.0.0.1 s-media-cache-ak0.pinimg.com
+127.0.0.1 i.pinimg.com
+
+# Dominios internacionales de Pinterest
+127.0.0.1 pinterest.es
+127.0.0.1 www.pinterest.es
+127.0.0.1 pinterest.cl
+127.0.0.1 pinterest.com.mx
+127.0.0.1 pinterest.co.uk
+127.0.0.1 pinterest.fr
+127.0.0.1 pinterest.de
+127.0.0.1 pinterest.it
+127.0.0.1 ar.pinterest.com
+127.0.0.1 co.pinterest.com
+127.0.0.1 mx.pinterest.com
+
+# ==========================================
+# REDES Y PLATAFORMAS DE ALIMENTACIÓN CONTINUA
+# ==========================================
+# Tumblr
+127.0.0.1 tumblr.com
+127.0.0.1 www.tumblr.com
+
+# We Heart It
+127.0.0.1 weheartit.com
+127.0.0.1 www.weheartit.com
+
+# Imgur
+127.0.0.1 imgur.com
+127.0.0.1 www.imgur.com
+127.0.0.1 i.imgur.com
+
+# DeviantArt
+127.0.0.1 deviantart.com
+127.0.0.1 www.deviantart.com
+
+# Flickr & 500px
+127.0.0.1 flickr.com
+127.0.0.1 www.flickr.com
+127.0.0.1 500px.com
+127.0.0.1 www.500px.com
+
+# Visores de Reddit / Galerías infinitas
+127.0.0.1 scrolller.com
+127.0.0.1 www.scrolller.com
+
+# Fotos de Stock
+127.0.0.1 unsplash.com
+127.0.0.1 www.unsplash.com
+127.0.0.1 pexels.com
+127.0.0.1 www.pexels.com
+
+
+# --- BLOQUEO DONDE MUJERES SE VENDEN O PORSTITUTAS ---
+0.0.0.0 gatitas.com
+0.0.0.0 www.gatitas.com
+0.0.0.0 www.gatitasmegaplaza.pe
+0.0.0.0 gatitasmegaplaza.pe
+0.0.0.0 www.gatitasmalldelsur.com
+0.0.0.0 gatitasmalldelsur.com
+0.0.0.0 www.kinesiologas.com.pe
+0.0.0.0 kinesiologas.com.pe
+0.0.0.0 pe.meetescorts.com
+0.0.0.0 www.pe.meetescorts.com
+0.0.0.0 tablago.com
+0.0.0.0 www.tablago.com
+0.0.0.0 pe.meetescorts.com
+0.0.0.0 tablago.com
+0.0.0.0 kinesiologas.com.pe
+0.0.0.0 mundoanuncio.pe
+0.0.0.0 anuncio.com.pe
+0.0.0.0 esc or tenperu.com
+0.0.0.0 escortenperu.com
+0.0.0.0 mileroticos.com
+0.0.0.0 prepago.pe
+0.0.0.0 sexogratis.com
+0.0.0.0 babalit.com
+0.0.0.0 worldadultguide.com
+0.0.0.0 gatitasmegaplaza.pe
+0.0.0.0 gatitasmalldelsur.com
+0.0.0.0 eroticum.net
+0.0.0.0 luxarymodels.com
+0.0.0.0 eroticum.net
+0.0.0.0 www.eroticum.net
+0.0.0.0 buscaplacer.com
+0.0.0.0 www.buscaplacer.com
+0.0.0.0 ar.buscaplacer.com
+0.0.0.0 br.buscaplacer.com
+0.0.0.0 cl.buscaplacer.com
+0.0.0.0 tablago.com
+0.0.0.0 www.tablago.com
+0.0.0.0 pe.meetescorts.com
+0.0.0.0 cl.meetescorts.com
+0.0.0.0 kinesiologas.com.pe
+0.0.0.0 www.kinesiologas.com.pe
+0.0.0.0 gatitasmegaplaza.pe
+0.0.0.0 www.gatitasmegaplaza.pe
+0.0.0.0 gatitasmalldelsur.com
+0.0.0.0 www.gatitasmalldelsur.com
+0.0.0.0 nudelirio.com
+0.0.0.0 www.nudelirio.com
+0.0.0.0 fatalmodel.com
+0.0.0.0 www.fatalmodel.com
+0.0.0.0 garotasreal.com.br
+0.0.0.0 www.garotasreal.com.br
+0.0.0.0 casualbr.com.br
+0.0.0.0 www.casualbr.com.br
+0.0.0.0 desejolocal.com
+0.0.0.0 www.desejolocal.com
+0.0.0.0 bellacia.com.br
+0.0.0.0 www.bellacia.com.br
+0.0.0.0 circuloescarlata.cl
+0.0.0.0 www.circuloescarlata.cl
+0.0.0.0 escortdirectoryworld.com
+0.0.0.0 thescortdirectory.com
+0.0.0.0 adult-classified.com
+0.0.0.0 adultsearch.com
+0.0.0.0 slixa.com
+0.0.0.0 tryst.link
+0.0.0.0 eurogirlsescort.com
+0.0.0.0 globalescortnet.com
+0.0.0.0 adultlook.com
+0.0.0.0 oklute.com
+0.0.0.0 erobella.com
+0.0.0.0 courtesanfinder.com
+0.0.0.0 elitecontactos.com
+0.0.0.0 escorts.help
+0.0.0.0 escortshub.org
+0.0.0.0 porngrade.com
+0.0.0.0 wikisexguide.com
+0.0.0.0 pasion.com
+0.0.0.0 slumi.com
+0.0.0.0 erosguia.com
+0.0.0.0 mileroticos.com
+0.0.0.0 mundoanuncio.com
+0.0.0.0 sexemodel.com
+0.0.0.0 vivastreet.com
+0.0.0.0 vivastreet.info
+0.0.0.0 adultwork.com
+0.0.0.0 bedpage.com
+0.0.0.0 mega-personals.eu
+0.0.0.0 punternet.com
+0.0.0.0 rentmen.com
+0.0.0.0 locanto.com
+0.0.0.0 ladies.de
+0.0.0.0 kaufmich.com
+0.0.0.0 kinky.nl
+0.0.0.0 hookers.nl
+0.0.0.0 sex.nl
+0.0.0.0 fkk-tour.de
+0.0.0.0 rosszlanyok.hu
+0.0.0.0 rok sa.pl
+0.0.0.0 6annonce.com
+0.0.0.0 scarletblue.com.au
+0.0.0.0 punterplanet.com
+0.0.0.0 cityheaven.net
+0.0.0.0 smooci.com

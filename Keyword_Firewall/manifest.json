@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Keyword Enforcement Engine",
+  "version": "1.0.0",
+  "description": "Kernel-level keyword URL and search query enforcement for Brave.",
+  "permissions": [
+    "declarativeNetRequest",
+    "webNavigation",
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "service_worker.js",
+    "type": "module"
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "static_ruleset",
+        "enabled": true,
+        "path": "rules/static_rules.json"
+      }
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["ui/blocked.html"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
