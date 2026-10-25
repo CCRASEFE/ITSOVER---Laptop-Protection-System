@@ -7,7 +7,7 @@
       "redirect": { "extensionPath": "/ui/blocked.html" }
     },
     "condition": {
-      "regexFilter": "^https?://.*(\\b|%20|\\+|_)(sexi|modelos|porno|nsfw|xxx)(\\b|%20|\\+|_).*",
+      "regexFilter": "^https?://.*(\\b|%20|\\+|_)(sexi|chicas|porno|erotic|sensual)(\\b|%20|\\+|_).*",
       "isUrlFilterCaseSensitive": false,
       "resourceTypes": ["main_frame"]
     }

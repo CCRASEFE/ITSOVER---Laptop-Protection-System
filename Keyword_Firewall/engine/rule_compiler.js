@@ -5,9 +5,8 @@ let isSyncing = false;
 
 // Semillas criticas Leetspeak
 const CRITICAL_LEET_SEEDS = [
-  'sexi', 'sexy', 'sex', 'model', 'modelo', 'modelos', 'hot', 'porno',
-  'porn', 'xxx', 'onlyfans', 'culo', 'culona', 'nude', 'nudes', 'babe',
-  'babes', 'escort', 'bikini'
+  'sexi', 'sexy', 'sex', 'hot', 'porno','mujer', 'woman', 'girl',  'porn', 'chicas', 'onlyfans', 'culo', 'culona', 'nude', 'nudes', 'babe',
+  'babes', 'escort', 'bikini', 'erotic'
 ];
 
 export async function syncKeywordRules(keywordList) {
