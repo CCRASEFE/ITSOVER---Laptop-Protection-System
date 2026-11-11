@@ -45,7 +45,8 @@ El sistema opera bajo el principio de **Defensa en Profundidad** (protección po
 │   ├── Fase07.md                       # Fase 07: Eliminación y bloqueo de YouTube Shorts
 │   ├── Fase08.md                       # Fase 08: Firewall por palabras clave (Keyword Firewall)
 │   ├── Fase09.md                       # Fase 09: Bloqueo de perfiles secundarios y modo invitado
-│   └── Fase10.md                       # Fase 10: Scripts globales de protección y automatización
+│   ├── Fase10.md                       # Fase 10: Scripts globales de protección y automatización
+│   └── Fase11.md                       # Fase 11: Control de acceso a Telegram y uso de extensión BlockTube
 └── Keyword_Firewall/                   # Extensión personalizable para Brave/Chromium
     ├── manifest.json
     ├── service_worker.js
@@ -81,7 +82,7 @@ A continuación se detalla el propósito de cada fase dentro de la arquitectura 
 | **Fase 08** | [FASES/Fase08.md](FASES/Fase08.md) | **Keyword Firewall &amp; Anti-Bypass**        | Carga de extensión personalizada (`Keyword_Firewall/`) para bloqueo por palabras clave y bloqueo del acceso a `brave://extensions` y Developer Tools.       |
 | **Fase 09** | [FASES/Fase09.md](FASES/Fase09.md) | **Bloqueo de Perfiles e Invitado**        | Inhabilitación de la creación de nuevos usuarios o ventanas de invitado en el navegador.                                                                    |
 | **Fase 10** | [FASES/Fase10.md](FASES/Fase10.md) | **Control Global Batch**                  | Integración de scripts automáticos `.bat` para gestión rápida y orquestación del sistema.                                                                   |
-
+| **Fase 11** | [FASES/Fase11.md](FASES/Fase11.md) | **Block Telegram Web and Use of BlockTube Extension** | Bloqueo de telegram web y uso de la extensión BlockTube para el bloqueo de canales de youtube.  
 ---
 
 ## 💻 Requisitos del Sistema
