@@ -28,5 +28,3 @@
 
 ##### **PASO 07:** (Blindaje del host a la edición): Entrar al cmd como administrador y dar el siguiente código:  *attrib +r +s +h C:\\Windows\\System32\\drivers\\etc\\hosts*
 
-
-
