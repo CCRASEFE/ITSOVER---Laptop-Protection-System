@@ -29,8 +29,8 @@ El sistema opera bajo el principio de **Defensa en Profundidad** (protección po
 
 ```
 .
-├── ACTIVAR_GLOBAL.bat                  # Script batch de aplicación masiva de directivas
-├── DESACTIVAR_GLOBAL.bat               # Script batch de reversión/mantenimiento
+├── ACTIVAR_GLOBAL.bat                  # Script batch de activación y bloqueo de edición a la extensión keyword firewall
+├── DESACTIVAR_GLOBAL.bat               # Script batch de reversión de los permisos de edición a la extensión keyword firewall
 ├── hosts_bloqueados - Laptop.txt       # Lista de dominios explícitos
 ├── host_bloqueo_redes_sociales.txt     # Lista de dominios de redes sociales
 ├── host_cont_implicito - Laptop.txt     # Lista de dominios implícitos/sugerentes
